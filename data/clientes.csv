@@ -1,0 +1,11 @@
+﻿id_cliente,nombre,edad,ciudad,correo
+1,Juan Pérez,25,Santiago,juan.perez@email.com
+2,María González,30,Valparaíso,maria.gonzalez@email.com
+3,Carlos López,22,Concepción,carlos.lopez@email.com
+4,Ana Martínez,28,La Serena,ana.martinez@email.com
+5,Pedro Díaz,35,Temuco,pedro.diaz@email.com
+6,Laura Rojas,27,Antofagasta,laura.rojas@email.com
+7,Diego Torres,40,Rancagua,diego.torres@email.com
+8,Sofía Herrera,24,Puerto Montt,sofia.herrera@email.com
+9,Andrés Castro,33,Iquique,andres.castro@email.com
+10,Camila Silva,29,Talca,camila.silva@email.com
